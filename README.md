@@ -1,6 +1,6 @@
 # TruckPaintjob
-此仓库存放由MaoT制作的欧、美卡涂装，所有涂装文件允许修改、再发布，发布时禁止将资源用于商业行为。
+此仓库存放由MaoT制作的欧、美卡涂装，所有涂装文件允许修改、再发布，禁止将皮肤内的任何资源用于商业行为。
 
-This repository contains European and American truck paint jobs made by MaoT. All paint job files are allowed to be modified and redistributed, but commercial use of these resources is prohibited.
+This repository contains ETS2/ATS paintjobs made by MaoT. All paint job files may be modified and redistributed, but using any assets from the paintjobs for commercial purposes is prohibited.
 
-このリポジトリにはMaoTが制作したヨーロッパおよびアメリカのトラック塗装が含まれています。すべての塗装ファイルは改変および再配布が可能ですが、商用利用は禁止されています。
+このリポジトリには、MaoTが制作したETS2/ATS向けのペイント（スキン）が収録されています。すべてのペイントファイルは改変および再配布を許可しますが、スキン内のいかなる素材も商用利用を禁止します。
